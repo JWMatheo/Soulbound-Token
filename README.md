@@ -1,2 +1,2 @@
-# Soulbound-Token
+# Soulbound Token
 SBT smart contract example
